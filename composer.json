@@ -1,5 +1,5 @@
 {
-  "name": "17lao/laravel-qiniu",
+  "name": "ry_mid/laravel-qiniu",
   "type": "library",
   "description": "A storage library for laravel5 and qiniu sdk",
   "keywords": [

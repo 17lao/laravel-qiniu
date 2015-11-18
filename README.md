@@ -10,8 +10,8 @@
 
 ## 安装
 
- - ```composer require 17lao/laravel-qiniu```
- - ```config/app.php``` 里面的 ```providers``` 数组， 加上一行 ```itbdw\QiniuStorage\QiniuFilesystemServiceProvider```
+ - ```composer require ry_mid/laravel-qiniu```
+ - ```config/app.php``` 里面的 ```providers``` 数组， 加上一行 ```ry_mid\QiniuStorage\QiniuFilesystemServiceProvider```
  - ```config/filesystem.php``` 里面的 ```disks```数组加上：
  
 ```php
