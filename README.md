@@ -75,7 +75,7 @@
 
 ```php
 
-    use 17lao\QiniuStorage\QiniuStorage;
+    use ry_mid\QiniuStorage\QiniuStorage;
 
     $disk = QiniuStorage::disk('qiniu');
     $disk->exists('file.jpg');                      //文件是否存在
